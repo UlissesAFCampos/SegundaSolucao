@@ -1,0 +1,15 @@
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\2-ComandoRepeticao-While\bin\Debug\net6.0\2-ComandoRepeticao-While.exe
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\2-ComandoRepeticao-While\bin\Debug\net6.0\2-ComandoRepeticao-While.deps.json
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\2-ComandoRepeticao-While\bin\Debug\net6.0\2-ComandoRepeticao-While.runtimeconfig.json
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\2-ComandoRepeticao-While\bin\Debug\net6.0\2-ComandoRepeticao-While.dll
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\2-ComandoRepeticao-While\bin\Debug\net6.0\2-ComandoRepeticao-While.pdb
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\2-ComandoRepeticao-While\obj\Debug\net6.0\2-ComandoRepeticao-While.csproj.AssemblyReference.cache
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\2-ComandoRepeticao-While\obj\Debug\net6.0\2-ComandoRepeticao-While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\2-ComandoRepeticao-While\obj\Debug\net6.0\2-ComandoRepeticao-While.AssemblyInfoInputs.cache
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\2-ComandoRepeticao-While\obj\Debug\net6.0\2-ComandoRepeticao-While.AssemblyInfo.cs
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\2-ComandoRepeticao-While\obj\Debug\net6.0\2-ComandoRepeticao-While.csproj.CoreCompileInputs.cache
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\2-ComandoRepeticao-While\obj\Debug\net6.0\2-ComandoRepeticao-While.dll
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\2-ComandoRepeticao-While\obj\Debug\net6.0\refint\2-ComandoRepeticao-While.dll
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\2-ComandoRepeticao-While\obj\Debug\net6.0\2-ComandoRepeticao-While.pdb
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\2-ComandoRepeticao-While\obj\Debug\net6.0\2-ComandoRepeticao-While.genruntimeconfig.cache
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\2-ComandoRepeticao-While\obj\Debug\net6.0\ref\2-ComandoRepeticao-While.dll

@@ -1,0 +1,5 @@
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\01-ComandosCondicionais\obj\Debug\net6.0\01-ComandosCondicionais.csproj.AssemblyReference.cache
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\01-ComandosCondicionais\obj\Debug\net6.0\01-ComandosCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\01-ComandosCondicionais\obj\Debug\net6.0\01-ComandosCondicionais.AssemblyInfoInputs.cache
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\01-ComandosCondicionais\obj\Debug\net6.0\01-ComandosCondicionais.AssemblyInfo.cs
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\01-ComandosCondicionais\obj\Debug\net6.0\01-ComandosCondicionais.csproj.CoreCompileInputs.cache

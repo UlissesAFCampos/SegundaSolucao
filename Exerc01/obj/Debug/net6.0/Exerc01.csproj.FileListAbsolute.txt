@@ -1,0 +1,15 @@
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\Exerc01\bin\Debug\net6.0\Exerc01.exe
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\Exerc01\bin\Debug\net6.0\Exerc01.deps.json
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\Exerc01\bin\Debug\net6.0\Exerc01.runtimeconfig.json
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\Exerc01\bin\Debug\net6.0\Exerc01.dll
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\Exerc01\bin\Debug\net6.0\Exerc01.pdb
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\Exerc01\obj\Debug\net6.0\Exerc01.csproj.AssemblyReference.cache
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\Exerc01\obj\Debug\net6.0\Exerc01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\Exerc01\obj\Debug\net6.0\Exerc01.AssemblyInfoInputs.cache
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\Exerc01\obj\Debug\net6.0\Exerc01.AssemblyInfo.cs
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\Exerc01\obj\Debug\net6.0\Exerc01.csproj.CoreCompileInputs.cache
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\Exerc01\obj\Debug\net6.0\Exerc01.dll
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\Exerc01\obj\Debug\net6.0\refint\Exerc01.dll
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\Exerc01\obj\Debug\net6.0\Exerc01.pdb
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\Exerc01\obj\Debug\net6.0\Exerc01.genruntimeconfig.cache
+C:\Users\Ulisses\Desktop\Curso C#\TurmaNoite\SegundaSolucao\Exerc01\obj\Debug\net6.0\ref\Exerc01.dll
